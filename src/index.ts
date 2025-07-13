@@ -1,1 +1,1 @@
-export * from '@/data/file'
+export * from '@/functions/axios-call'
